@@ -1,0 +1,14 @@
+C:\Users\2023102060039\source\repos\POO_Voo\bin\Debug\net8.0\POO_Voo.exe
+C:\Users\2023102060039\source\repos\POO_Voo\bin\Debug\net8.0\POO_Voo.deps.json
+C:\Users\2023102060039\source\repos\POO_Voo\bin\Debug\net8.0\POO_Voo.runtimeconfig.json
+C:\Users\2023102060039\source\repos\POO_Voo\bin\Debug\net8.0\POO_Voo.dll
+C:\Users\2023102060039\source\repos\POO_Voo\bin\Debug\net8.0\POO_Voo.pdb
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.AssemblyInfoInputs.cache
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.AssemblyInfo.cs
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.csproj.CoreCompileInputs.cache
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.dll
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\refint\POO_Voo.dll
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.pdb
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\POO_Voo.genruntimeconfig.cache
+C:\Users\2023102060039\source\repos\POO_Voo\obj\Debug\net8.0\ref\POO_Voo.dll
