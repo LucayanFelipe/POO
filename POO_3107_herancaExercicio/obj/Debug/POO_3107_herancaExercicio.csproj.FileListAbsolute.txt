@@ -1,0 +1,7 @@
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\bin\Debug\POO_3107_herancaExercicio.exe.config
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\bin\Debug\POO_3107_herancaExercicio.exe
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\bin\Debug\POO_3107_herancaExercicio.pdb
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\obj\Debug\POO_3107_herancaExercicio.csproj.AssemblyReference.cache
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\obj\Debug\POO_3107_herancaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\obj\Debug\POO_3107_herancaExercicio.exe
+C:\Users\2023102060039\source\repos\POO_3107_herancaExercicio\obj\Debug\POO_3107_herancaExercicio.pdb
