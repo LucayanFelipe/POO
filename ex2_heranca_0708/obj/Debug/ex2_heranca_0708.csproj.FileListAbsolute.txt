@@ -1,0 +1,7 @@
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\bin\Debug\ex2_heranca_0708.exe.config
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\bin\Debug\ex2_heranca_0708.exe
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\bin\Debug\ex2_heranca_0708.pdb
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\obj\Debug\ex2_heranca_0708.csproj.AssemblyReference.cache
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\obj\Debug\ex2_heranca_0708.csproj.CoreCompileInputs.cache
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\obj\Debug\ex2_heranca_0708.exe
+C:\Users\2023102060039\source\repos\ex2_heranca_0708\obj\Debug\ex2_heranca_0708.pdb
