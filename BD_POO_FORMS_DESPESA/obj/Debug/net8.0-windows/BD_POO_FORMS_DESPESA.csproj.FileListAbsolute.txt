@@ -1,0 +1,17 @@
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\bin\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.exe
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\bin\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.deps.json
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\bin\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.runtimeconfig.json
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\bin\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.dll
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\bin\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.pdb
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.Form1.resources
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.Properties.Resources.resources
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.csproj.GenerateResource.cache
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.AssemblyInfoInputs.cache
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.AssemblyInfo.cs
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.csproj.CoreCompileInputs.cache
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.dll
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\refint\BD_POO_FORMS_DESPESA.dll
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.pdb
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\BD_POO_FORMS_DESPESA.genruntimeconfig.cache
+C:\Users\2023102060039\source\repos\BD_POO_FORMS_DESPESA\obj\Debug\net8.0-windows\ref\BD_POO_FORMS_DESPESA.dll
